@@ -47,18 +47,18 @@ XO Game is a simple implementation of the classic Tic-Tac-Toe game, developed in
 
 ```
 Player X, enter your move: 1
-❌ |   |  
+❌  |   |  
 ---|---|---
    |   |  
 ---|---|---
    |   |  
 
 Player O, enter your move: 2
-❌ | 🟢 |  
----|---|---
-   |   |  
----|---|---
-   |   |   
+❌  | 🟢 |  
+---|----|---
+   |    |  
+---|----|---
+   |    |   
 ```
 
 ## Contributing
