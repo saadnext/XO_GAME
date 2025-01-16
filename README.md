@@ -55,10 +55,10 @@ Player X, enter your move: 1
 
 Player O, enter your move: 2
  ❌ | 🟢 |  
----|---|---
-   |   |  
----|---|---
-   |   |  
+---|----|---
+   |    |  
+---|----|---
+   |    |  
 ```
 
 ## Contributing
