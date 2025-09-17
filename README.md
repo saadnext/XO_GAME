@@ -16,7 +16,7 @@ XO Game is a simple implementation of the classic Tic-Tac-Toe game, developed in
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/xo-game.git
+   git clone https://github.com/saadnext/xo-game.git
    ```
 2. Navigate to the project directory:
    ```bash
